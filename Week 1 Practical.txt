@@ -1,0 +1,5 @@
+Week 2: Practical Work
+
+Q1: Dataset with n attributes has n^2 scatterplots. 
+
+Q2: The mystery dataset has 45715 unique instances of 5 attributes. Not all instances are complete approximatly 70% are complete. 13529 instances are missing one or more values. Field 4 has 6 outliers
