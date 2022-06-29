@@ -5,3 +5,6 @@ Q1: Dataset with n attributes has n^2 scatterplots.
 Q2: The mystery dataset has 45715 unique instances of 6 atributes. Not all instances are complete approximatly 70% are complete. 13529 instances are missing one or more values. Field 4 has 6 outliers. 0 accounts for the majority of field 6. 
 
 Q3: See image attached which displays a plot of the frequencey of the name Terry with the name Karen in the US over time. Interestingly men named Terry tend to be of the same age as women named Karen. This isn an interesting data visualization because it  gives us insights into the unique relationship between Terry's and Karens. It clearly shows that they are cut fro the same cloth.
+
+
+fuck you
